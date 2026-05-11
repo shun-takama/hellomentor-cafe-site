@@ -1,5 +1,5 @@
 # hellomentor-cafe-site
-HelloMentorの制作課題として制作した、レスポンシブ対応のカフェサイトです。
+メンタリングサービス「HelloMentor」の制作課題として制作した、レスポンシブ対応のカフェサイトです。
 
 ---
 
