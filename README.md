@@ -7,7 +7,7 @@ HelloMentorの制作課題として制作した、
 
 ## サイトURL
 
-（公開URLを貼る）
+https://shun-takama.github.io/hellomentor-cafe-site/
 
 ---
 
