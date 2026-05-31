@@ -1072,6 +1072,7 @@ body {
     gap: 32px;
   }
 }
+
 .concept-main-text {
   font-size: 16px;
   line-height: 1.75;
@@ -1109,6 +1110,16 @@ body {
   display: grid;
   gap: 24px;
   text-align: center;
+}
+
+.menu-main-text {
+  font-size: 16px;
+  line-height: 1.75;
+}
+@media screen and (min-width: 768px) {
+  .menu-main-text {
+    font-size: 20px;
+  }
 }
 
 .menu-list-item {
